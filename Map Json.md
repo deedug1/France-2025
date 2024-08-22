@@ -164,6 +164,14 @@
     }
   },
   {
+    "ruleName": "#shop",
+    "preset": false,
+    "iconDetails": {
+      "prefix": "fas",
+      "icon": "fa-shop"
+    }
+  },
+  {
     "ruleName": "#visit",
     "preset": false,
     "iconDetails": {
