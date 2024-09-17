@@ -178,6 +178,14 @@
       "prefix": "fas",
       "shape": "star"
     }
+  },
+  {
+    "ruleName": "#wine",
+    "preset": false,
+    "iconDetails": {
+      "prefix": "fas",
+      "icon": "fa-wine-bottle"
+    }
   }
 ]
 ```
