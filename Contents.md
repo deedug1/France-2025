@@ -1,4 +1,4 @@
-# LAST ENTRY: PAGE 263
+# LAST ENTRY: PAGE 327
 # All entries
 ```dataview
 TABLE type, cost, rating, link
