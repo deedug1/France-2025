@@ -1,9 +1,8 @@
-# LAST ENTRY: PAGE 357
 # All entries
 ```dataview
-TABLE type, cost, rating, link
+TABLE type, cost, rating, page, link
 FROM "France 2025/entries"
-WHERE type = "4"
+SORT number(page) DESC
 ```
 
 # Chosen places
