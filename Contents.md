@@ -1,7 +1,8 @@
 # All entries
 ```dataview
 TABLE type, cost, rating, page, link
-FROM "France 2025/entries"
+FROM ""
+WHERE file.folder = this.file.folder + "/entries"
 SORT number(page) DESC
 ```
 
