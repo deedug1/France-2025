@@ -10,6 +10,7 @@ link: https://www.toureiffel.paris/fr
 page: "86"
 location: 48.8582599,2.2945006358633115
 visit: 
-map-link:
+map-link: 
+source: Fodor's Essential France
 ---
 It costs more to go up in the elevator. Recommended to reserve times in advance.

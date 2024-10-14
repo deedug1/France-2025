@@ -10,6 +10,7 @@ location: 48.8517084,2.356718
 link: https://berthillon.fr/
 page: "84"
 visit: 
-map-link:
+map-link: 
+source: Fodor's Essential France
 ---
 Ice cream shop

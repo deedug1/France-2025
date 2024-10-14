@@ -10,6 +10,7 @@ hours: Mon-Sun 9AM-7PM
 link: https://www.sainte-chapelle.fr/
 page: "84"
 visit: false
-map-link:
+map-link: 
+source: Fodor's Essential France
 ---
 Reservation required. Can get joint ticket with Conciergerie for 18.50€

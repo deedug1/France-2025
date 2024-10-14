@@ -10,6 +10,7 @@ link:
 page: "93"
 location: 48.87292929457742,2.2978161925014455
 visit: 
-map-link:
+map-link: 
+source: Fodor's Essential France
 ---
 Historic street with lots of vendors.
