@@ -1,3 +1,4 @@
+
 # All entries
 ```dataview
 TABLE type, cost, rating, page, link
