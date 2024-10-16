@@ -186,6 +186,14 @@
       "prefix": "fas",
       "icon": "fa-wine-bottle"
     }
+  },
+  {
+    "ruleName": "#cave",
+    "preset": false,
+    "iconDetails": {
+      "prefix": "fas",
+      "icon": "fa-mountain"
+    }
   }
 ]
 ```
