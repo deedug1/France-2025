@@ -1,10 +1,10 @@
 ---
 tags:
-  - 6S
   - tour
+  - 7S
 type: tour
 cost: 140
-rating: 6
+rating: 7
 hours: N/A
 link: https://culinarybackstreets.com/category/cities-category/marseille/
 page: "570"

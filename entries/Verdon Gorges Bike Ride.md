@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - activity
+  - 7S
 type: activity
 cost: 
-rating: 5
+rating: 7
 hours: Sat-Thurs 9AM-6PM
 link: http://verdonebike.com/
 page: "706"

@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - garden
+  - 6S
 type: garden
 cost: 10
-rating: 5
+rating: 6
 hours: Mon-Sun 9AM-6:30PM
 link: https://www.jardinexotique-eze.fr/
 page: "637"

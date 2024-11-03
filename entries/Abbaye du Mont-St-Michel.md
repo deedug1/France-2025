@@ -1,10 +1,10 @@
 ---
 tags:
-  - 6S
   - site
+  - 7S
 type: site
 cost: 
-rating: 6
+rating: 7
 hours: Mon-Sun 9:30AM-5PM
 link: http://www.abbaye-mont-saint-michel.fr/
 page: "300"

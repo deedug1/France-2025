@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - tour
+  - 6S
 type: tour
-cost: 20
-rating: 5
+cost: "20"
+rating: 6
 hours: N/A
 link: http://www.lavisitedescalanques.com/
 page: "578"

@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - site
+  - 6S
 type: site
 cost: 0
-rating: 5
+rating: 6
 hours: Mon-Sun 8AM-12AM
 link: https://www.pontdugard.fr/fr
 page: "526"

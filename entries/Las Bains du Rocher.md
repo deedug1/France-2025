@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - activity
+  - 6S
 type: activity
 cost: 
-rating: 5
+rating: 6
 hours: Mon-Sat 2PM-7:30PM Sun 10AM-1PM,2PM-6PM
 link: http://www.bains-rocher.fr/
 page: "749"

@@ -1,10 +1,10 @@
 ---
 tags:
-  - 5S
   - activity
+  - 6S
 type: activity
 cost: 
-rating: 5
+rating: 6
 hours: Mon-Sun 9AM-7PM
 link: http://www.compagnie-sports-nature.com/
 page: "578"

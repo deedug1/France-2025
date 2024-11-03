@@ -1,10 +1,10 @@
 ---
 tags:
   - park
-  - 5S
+  - 6S
 type: park
 cost: 
-rating: 5
+rating: 6
 hours: 24/7
 link: 
 page: "613"
